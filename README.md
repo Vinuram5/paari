@@ -1,1 +1,1 @@
-# paari
+# QRcode
